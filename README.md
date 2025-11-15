@@ -34,6 +34,8 @@ Currently exploring the intersection of **computer graphics**, **machine learnin
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![WebXR](https://img.shields.io/badge/WebXR-7B42BC?style=flat&logo=webxr&logoColor=white)
+![JUCE](https://img.shields.io/badge/JUCE-8DC63F?style=flat&logo=juce&logoColor=white)
+![3D Slicer](https://img.shields.io/badge/3D_Slicer-4B4B4B?style=flat&logoColor=white)
 
 **Game Engines:**  
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
