@@ -46,22 +46,6 @@ Currently exploring the intersection of **computer graphics**, **machine learnin
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
-## 📂 Projects
-
-- [Cloth Simulation Engine](https://github.com/ThizizBachir/cloth-simulation)
-- [JUCE Audio Plugin](https://github.com/ThizizBachir/juce-audio-plugin)
-- [BuildXR](https://github.com/ThizizBachir/buildxr)
-- [3D Space Shooting Game](https://github.com/ThizizBachir/space-shooter)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThizizBachir&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThizizBachir&layout=compact&theme=radical)
-
-</div>
 
 ## 🎯 Currently Working On
 
