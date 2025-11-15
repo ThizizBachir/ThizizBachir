@@ -47,18 +47,6 @@ Currently exploring the intersection of **computer graphics**, **machine learnin
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 
-## 🎯 Currently Working On
-
-- 🧠 Medical imaging reconstruction with neural radiance fields
-- 🎮 Advanced physics simulations for real-time applications
-- 🎵 DSP and audio processing plugins
-- 🌐 WebXR experiences for practical applications
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on projects related to **computer graphics**, **game development**, **XR technologies**, or **real-time simulations**. Feel free to reach out!
-
----
 
 <div align="center">
 
