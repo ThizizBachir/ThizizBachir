@@ -44,47 +44,12 @@ Currently exploring the intersection of **computer graphics**, **machine learnin
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
-## 💼 Featured Projects
+## 📂 Projects
 
-### 🏥 [3D Reconstruction from CT Images using NeRF](https://github.com/ThizizBachir)
-*Python • C++ • Qt • 3D Slicer*
-
-Designing a 3D Slicer extension to reconstruct 3D medical volumes from CT scans, leveraging **NeRF** and **Gaussian Splatting** techniques for high-fidelity medical visualization and analysis.
-
----
-
-### 🧵 [Cloth Simulation Engine](https://github.com/ThizizBachir)
-*C++ • OpenGL • GLSL • ImGui*
-
-Built a physics-based cloth simulation engine with real-time rendering of **elasticity**, **friction**, and **gravity effects**. Features custom shader programming and optimized particle-spring systems.
-
----
-
-### 🎵 [JUCE Audio Plugin](https://github.com/ThizizBachir)
-*C++ • JUCE • DSP*
-
-Developed an audio plugin using the JUCE framework, implementing DSP modules, custom GUI design, and real-time signal processing for professional audio applications.
-
----
-
-### 🥽 [BuildXR - Immersive Assembly Assistant](https://github.com/ThizizBachir)
-*WebXR • Three.js • JavaScript*
-
-An immersive assembly assistant that replaces traditional paper manuals with **step-by-step 3D instructions in XR**. Using just a smartphone, Google Cardboard, and a QR code, users can visualize and construct complex products.
-
----
-
-### 🚀 [3D Space Shooting Game](https://github.com/ThizizBachir)
-*Unreal Engine • C++ • Blueprints*
-
-Designed and programmed a 3D space shooter with enemy AI, combat mechanics, score tracking, and polished gameplay systems using Unreal Engine's C++ API.
-
----
-
-### 👗 [3D Virtual Try-On & Clothing in AR](https://github.com/ThizizBachir)
-*Research Project - IEEE CIS Challenge (Ranked 2/33)*
-
-Research-driven AR project on human 3D representation, focusing on pipeline design and experimentation for virtual clothing try-on experiences.
+- [Cloth Simulation Engine](https://github.com/ThizizBachir/cloth-simulation)
+- [JUCE Audio Plugin](https://github.com/ThizizBachir/juce-audio-plugin)
+- [BuildXR](https://github.com/ThizizBachir/buildxr)
+- [3D Space Shooting Game](https://github.com/ThizizBachir/space-shooter)
 
 ## 📊 GitHub Stats
 
